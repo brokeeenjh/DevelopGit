@@ -9,7 +9,10 @@ public class Program
 
         video.Name = "Hello";
 
-        creator.OnNotification += video.VideoNotification;
+        creator.OnNotification += () =>
+        {
+            Console.WriteLine("G");
+        };
         
         creator.Notify();
     }
