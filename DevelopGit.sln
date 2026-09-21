@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopGit", "DevelopGit\DevelopGit.csproj", "{CF894F98-C304-462D-861B-144F3ACE1384}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandler", "ExceptionHandler\ExceptionHandler.csproj", "{1A6F0E11-5940-48F8-930F-E43FF848DBD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{CF894F98-C304-462D-861B-144F3ACE1384}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF894F98-C304-462D-861B-144F3ACE1384}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF894F98-C304-462D-861B-144F3ACE1384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6F0E11-5940-48F8-930F-E43FF848DBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6F0E11-5940-48F8-930F-E43FF848DBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6F0E11-5940-48F8-930F-E43FF848DBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6F0E11-5940-48F8-930F-E43FF848DBD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
