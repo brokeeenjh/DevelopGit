@@ -17,5 +17,6 @@ public class Program
         creator.Notify();
 
         int a = 5;
+        int b = 3;
     }
 }
