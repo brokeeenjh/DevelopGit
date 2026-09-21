@@ -15,5 +15,7 @@ public class Program
         };
         
         creator.Notify();
+
+        int a = 5;
     }
 }
